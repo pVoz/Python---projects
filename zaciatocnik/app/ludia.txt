@@ -1,0 +1,12 @@
+meno: Andrejka
+vek: 27
+programator: False
+--------------------
+meno: Peter
+vek: 28
+programator: True
+--------------------
+meno: Jozef
+vek: 12
+programator: True
+--------------------
